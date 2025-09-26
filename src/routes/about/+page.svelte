@@ -26,10 +26,9 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Move fast. Stay compliant."
+	subtitle="Modern systems built for complex industries"
+	imageSrc="/generated/image-a-group-of-diverse-professionals-engaged.webp"
 />
 
 <!-- Story Section -->
