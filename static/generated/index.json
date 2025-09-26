@@ -58,5 +58,17 @@
   {
     "prompt": "A group of diverse professionals engaged in a collaborative discussion around a table in a modern, well-lit office space. The environment features contemporary furniture, large windows letting in natural light, indoor plants, and subtle decorative elements. Team members are actively interacting, some gesturing or taking notes, while others listen attentively. No screens, tech devices, or visible text present. The atmosphere is focused yet welcoming, with a variety of natural poses and expressions.",
     "filename": "/generated/image-a-group-of-diverse-professionals-engaged.webp"
+  },
+  {
+    "prompt": "Professional executive headshot of a confident founder CEO, natural lighting, subtle background with a softly blurred modern office or neutral indoor environment, subject looking directly at the camera, wearing business attire, friendly and approachable expression, variety in age, gender, and ethnicity across images, realistic photographic style, shallow depth of field, no text, no screens, no tech, no posters, no abstract elements.",
+    "filename": "/generated/image-professional-executive-headshot-of-a-con.webp"
+  },
+  {
+    "prompt": "A group of executives in formal business attire engaged in a lively discussion around a polished wooden conference table, with architectural blueprints and documents spread out, in a spacious, sunlit office with floor-to-ceiling windows and tasteful indoor plants. Diverse group, natural lighting, subtle variations in posture and interaction, elegant and contemporary interior design.",
+    "filename": "/generated/image-a-group-of-executives-in-formal-business.webp"
+  },
+  {
+    "prompt": "A team of technical professionals collaborating in a modern open-plan office, gathered around a large table with notebooks, pens, and coffee mugs, some standing and some seated, surrounded by stylish furniture and large windows letting in daylight. Diverse group, relaxed yet focused atmosphere, contemporary decor with green plants and artfully arranged shelves.",
+    "filename": "/generated/image-a-team-of-technical-professionals-collab.webp"
   }
 ]

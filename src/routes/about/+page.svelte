@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Technical excellence",
+			description: "Full-stack expertise across ERP, CRM, e-commerce, and logistics platforms built to enterprise standards."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Regulatory mastery",
+			description: "Deep compliance knowledge for high-risk industries that others avoid, turning regulatory challenges into competitive advantages."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Growth acceleration",
+			description: "Systems designed not just for compliance, but to unlock operational efficiency and new revenue streams at scale."
 		}
 	];
 </script>
@@ -43,61 +43,27 @@
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
-	title="Our team."
-	subtitle="Your partners in innovation."
+	title="Leadership."
+	subtitle="Building the backbone for high-risk industries."
 	stakeholders={[
 		{
-			name: "Alex Morgan",
+			name: "Oze Botach",
 			position: "Founder & CEO",
-			bio: "Started the company with a vision to transform the industry through innovative solutions.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Jamie Chen",
-			position: "Chief Design Officer",
-			bio: "Award-winning designer with a passion for creating intuitive and beautiful experiences.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Taylor Wright",
-			position: "Head of Engineering",
-			bio: "Technology enthusiast focused on building scalable systems that make a difference.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		}
-	]}
-/>
-
-<StakeholderGrid
-	generating
-	stakeholderType="investor"
-	title="Backed by the best."
-	subtitle="Point Nine, TSIC and others"
-	stakeholders={[
-		{
-			name: "Point Nine Capital",
-			image: "https://cdn.brandfetch.io/pointnine.com/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7"
-		},
-		{
-			name: "TSIC Ventures",
-			image: "https://cdn.brandfetch.io/tiny.vc/w/400/h/400/logo?c=1a2b3c4d5e"
-		},
-		{
-			name: "Sequoia Capital",
-			image: "https://cdn.brandfetch.io/sequoiacap.com/w/400/h/400/logo"
+			bio: "Combining deep regulatory expertise with rapid full-stack development to transform compliance challenges into growth opportunities for complex businesses.",
+			image: "/generated/image-professional-executive-headshot-of-a-con.webp"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Stop losing time to regulators"
+	subtitle="Start shipping faster"
+	description="Join hundreds of executives using SuccessVariable to transform compliance headaches into growth opportunities. Get Fortune 100-grade systems built for your high-risk industry—from e-commerce platforms to ERP and logistics solutions that scale."
+	imageSrc="/generated/image-a-group-of-executives-in-formal-business.webp"
 />
