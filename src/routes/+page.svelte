@@ -6,16 +6,50 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+	import CustomerCardHero from "$lib/components/layout/hero-sections/CustomerCardHero.svelte";
 </script>
 
-<Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+<CustomerCardHero
+	centered={true}
+	title="Turning compliance into competitive advantage"
+	subtitle="High-risk and complex businesses trust SuccessVariable to build the modern software backbone that transforms regulatory challenges into scalable growth opportunities."
+	customers={[
+		{
+			name: "Michael Chen",
+			position: "CEO, SecureLogistics",
+			imageSrc: "/generated/image-centered-portrait-of-a-professional-midd.webp"
+		},
+		{
+			name: "Sarah Rodriguez",
+			position: "CTO, ComplianceFirst",
+			imageSrc: "/generated/image-centered-portrait-of-a-professional-woma.webp"
+		},
+		{
+			name: "James Thompson",
+			position: "Operations Director, FreightForward",
+			imageSrc: "/generated/image-centered-portrait-of-a-mature-business-e.webp"
+		},
+		{
+			name: "Elena Vasquez",
+			position: "Chief Technology Officer, RiskVentures",
+			imageSrc: "/generated/image-centered-portrait-of-a-professional-woma.webp"
+		},
+		{
+			name: "Robert Kim",
+			position: "Executive Vice President, CapitalBridge",
+			imageSrc: "/generated/image-centered-portrait-of-a-senior-male-execu.webp"
+		}
+	]}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/paypal.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/square.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/stripe.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
