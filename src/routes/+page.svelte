@@ -58,54 +58,67 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
+			name: "Marcus Rivera",
+			position: "CEO",
+			company: "SecureFinance Solutions",
+			quote:
+				"SuccessVariable transformed our compliance nightmare into a competitive advantage. We went from 6-week payment processor approvals to same-day activations. Their regulatory expertise saved us $2.3M in potential fines and opened three new revenue channels we couldn't access before.",
+			image: "/generated/image-professional-headshot-of-marcus-rivera-a.webp"
+		},
+		{
+			name: "Diana Chen",
 			position: "CTO",
-			company: "Tech Innovations",
+			company: "RiskVault Technologies",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before SuccessVariable, we spent 40% of our engineering time on compliance patches. Now it's automated. Their full-stack platform reduced our operational overhead by 60% while eliminating the regulatory risks that kept me up at night. ROI was clear within 90 days.",
+			image: "/generated/image-professional-headshot-of-diana-chen-an-a.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Kevin O'Sullivan",
+			position: "Operations Director",
+			company: "CrossBorder Logistics",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
-			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The regulatory complexity of international freight was strangling our growth. SuccessVariable built us a system that handles compliance across 15 countries automatically. We've cut processing time from 3 days to 4 hours and expanded into markets we never thought possible.",
+			image: "/generated/image-professional-headshot-of-kevin-osullivan.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Built for high-risk, complex businesses"
+	subtitle="We combine deep regulatory expertise with rapid full-stack development to turn compliance challenges into competitive advantages"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Regulatory compliance engine",
+			description: "Automated compliance workflows keep you ahead of changing regulations while reducing legal risk by 85%.",
+			imageSrc: "/generated/image-1-a-group-of-executives-in-formal-busine.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "High-risk payment processing",
+			description: "Custom gateway solutions bypass processor rejections and unlock revenue streams traditional systems can't handle.",
+			imageSrc: "/generated/image-2-employees-in-business-casual-clothing-.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Full-stack business platforms",
+			description: "Integrated ERP, CRM, and e-commerce systems built specifically for complex operational requirements.",
+			imageSrc: "/generated/image-3-a-contemporary-open-office-space-with-.webp"
+		},
+		{
+			title: "Automated compliance monitoring",
+			description: "Real-time risk detection and proactive alerts prevent costly violations before they impact your business.",
+			imageSrc: "/generated/image-4-a-spacious-organized-control-room-with.webp"
+		},
+		{
+			title: "Legacy system modernization",
+			description: "Seamless migration from outdated workflows to modern platforms without disrupting ongoing operations.",
+			imageSrc: "/generated/image-5-a-split-scene-office-showing-one-side-.webp"
+		},
+		{
+			title: "Strategic risk analytics",
+			description: "Advanced data insights transform compliance costs into strategic advantages that drive measurable growth.",
+			imageSrc: "/generated/image-6-a-lively-office-environment-where-a-di.webp"
 		}
 	]}
 />

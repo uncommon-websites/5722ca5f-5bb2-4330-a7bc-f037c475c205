@@ -18,5 +18,41 @@
   {
     "prompt": "Centered portrait of a senior male executive in sharp business attire, in a sophisticated financial office environment with large windows, city views, and minimalist yet elegant decor. Soft natural lighting, professional ambiance, and subtle variation in pose, expression, and office details for each image.",
     "filename": "/generated/image-centered-portrait-of-a-senior-male-execu.webp"
+  },
+  {
+    "prompt": "Professional headshot of Marcus Rivera, a confident Hispanic CEO, in a modern office environment with soft natural lighting. He is dressed in a tailored business suit, with a subtle smile, neutral background tones, and a shallow depth of field for focus. Variations in background decor and posture to maintain visual interest while keeping a consistent professional style.",
+    "filename": "/generated/image-professional-headshot-of-marcus-rivera-a.webp"
+  },
+  {
+    "prompt": "Professional headshot of Diana Chen, an Asian executive CTO, seated in a stylish boardroom with large windows and natural daylight. She is wearing contemporary business attire, with an approachable expression, minimalistic background details, and a soft focus effect. Introduce slight changes in pose and background elements for variety while ensuring a cohesive, polished look.",
+    "filename": "/generated/image-professional-headshot-of-diana-chen-an-a.webp"
+  },
+  {
+    "prompt": "Professional headshot of Kevin O'Sullivan, an Irish operations director in the logistics industry, in a well-lit office setting. He is wearing a classic suit, displaying an experienced and composed demeanor, with subtle differences in background furnishings and stance to add variation. Use neutral color palettes, gentle lighting, and a consistent, professional atmosphere across images.",
+    "filename": "/generated/image-professional-headshot-of-kevin-osullivan.webp"
+  },
+  {
+    "prompt": "1. A group of executives in formal business attire seated around a polished conference table, engaged in a serious discussion in a well-lit, modern meeting room with large windows and city views. The atmosphere is professional and collaborative, with subtle variations in facial expressions and gestures among participants. No screens, tech, or text present—just people, natural light, and tasteful office decor such as plants and artwork.",
+    "filename": "/generated/image-1-a-group-of-executives-in-formal-busine.webp"
+  },
+  {
+    "prompt": "2. Employees in business-casual clothing working at desks within a secure, glass-enclosed financial center. The environment features subtle security measures like keycard access doors and visible security personnel in the background. The atmosphere is focused and professional, with people interacting and reviewing documents. No screens, tech devices, or text—only real objects and people.",
+    "filename": "/generated/image-2-employees-in-business-casual-clothing-.webp"
+  },
+  {
+    "prompt": "3. A contemporary open office space with diverse professionals collaborating at communal tables and standing desks. The workspace features modern furniture, indoor plants, and natural lighting. People are engaged in conversation, brainstorming, or reviewing physical documents. No screens, tech devices, or text—focus on the human interaction and vibrant office environment.",
+    "filename": "/generated/image-3-a-contemporary-open-office-space-with-.webp"
+  },
+  {
+    "prompt": "4. A spacious, organized control room with teams of people monitoring and discussing activities. The room features large observation windows, visible analog clocks, and communication devices like walkie-talkies. Staff wear uniforms or business attire, and interact with each other or with paper documents. No screens, dashboards, or text—only real objects present.",
+    "filename": "/generated/image-4-a-spacious-organized-control-room-with.webp"
+  },
+  {
+    "prompt": "5. A split-scene office showing one side with classic wooden furniture, paper files, and rotary phones, while the other side is updated with modern furniture, plants, and contemporary lighting. Employees on both sides are working together, exchanging files or shaking hands, representing a transition from old to new. No screens, tech devices, or text—just people and tangible office elements.",
+    "filename": "/generated/image-5-a-split-scene-office-showing-one-side-.webp"
+  },
+  {
+    "prompt": "6. A lively office environment where a diverse team gathers around a table, animatedly discussing printed charts and graphs. The space is filled with natural light, greenery, and modern decor. Some people stand, others sit, all engaged in reviewing physical data materials. No screens, dashboards, or text—focus on the energy and collaboration among the team.",
+    "filename": "/generated/image-6-a-lively-office-environment-where-a-di.webp"
   }
 ]
